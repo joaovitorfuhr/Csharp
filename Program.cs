@@ -18,8 +18,10 @@ namespace hwapp
 
             Boolean maiorQueDez = valor > 10;
             if(maiorQueDez) {
-                
-            }
+               System.Console.WriteLine($"{resultado} é maior que 10");
+               }else{
+                   System.Console.WriteLine($"{resultado} é menor que 10");
+               } 
         }
     }
 }
