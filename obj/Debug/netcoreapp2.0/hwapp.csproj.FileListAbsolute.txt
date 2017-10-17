@@ -1,0 +1,10 @@
+/home/ubuntu/dotnet/console-dotnet/hwapp/bin/Debug/netcoreapp2.0/hwapp.deps.json
+/home/ubuntu/dotnet/console-dotnet/hwapp/bin/Debug/netcoreapp2.0/hwapp.runtimeconfig.json
+/home/ubuntu/dotnet/console-dotnet/hwapp/bin/Debug/netcoreapp2.0/hwapp.runtimeconfig.dev.json
+/home/ubuntu/dotnet/console-dotnet/hwapp/bin/Debug/netcoreapp2.0/hwapp.dll
+/home/ubuntu/dotnet/console-dotnet/hwapp/bin/Debug/netcoreapp2.0/hwapp.pdb
+/home/ubuntu/dotnet/console-dotnet/hwapp/obj/Debug/netcoreapp2.0/hwapp.csproj.CoreCompileInputs.cache
+/home/ubuntu/dotnet/console-dotnet/hwapp/obj/Debug/netcoreapp2.0/hwapp.AssemblyInfoInputs.cache
+/home/ubuntu/dotnet/console-dotnet/hwapp/obj/Debug/netcoreapp2.0/hwapp.AssemblyInfo.cs
+/home/ubuntu/dotnet/console-dotnet/hwapp/obj/Debug/netcoreapp2.0/hwapp.dll
+/home/ubuntu/dotnet/console-dotnet/hwapp/obj/Debug/netcoreapp2.0/hwapp.pdb
