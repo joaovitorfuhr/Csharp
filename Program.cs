@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace console_dotnet
+namespace console-dotnet
 {
     class Program
     {
@@ -23,8 +23,11 @@ namespace console_dotnet
                 System.Console.WriteLine($"{resultado} é menor que 10");
             }
 
-            calcsoma calcsoma = new calcsoma();
-            System.Console.WriteLine(calcsoma.soma(10, 5));
+            Aqui aqui = new Aqui();
+            System.Console.WriteLine(aqui.soma(10, 5));
+
+            Validacao v = new Validacao();
+            v.numero(0, 10);
         }
     }
 }
